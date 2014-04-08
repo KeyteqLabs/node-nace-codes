@@ -1,0 +1,28 @@
+{
+  "name": "nace-codes",
+  "version": "0.0.0",
+  "description": "NACE codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KeyteqLabs/node-nace-codes.git"
+  },
+  "author": "Raymond Julin <raymond.julin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KeyteqLabs/node-nace-codes/issues"
+  },
+  "homepage": "https://github.com/KeyteqLabs/node-nace-codes",
+  "devDependencies": {
+    "feedparser": "^0.16.6",
+    "jsonfile": "^1.1.1",
+    "mocha": "~1.18.2",
+    "xml2js": "^0.4.2"
+  },
+  "dependencies": {
+    "bluebird": "~1.2.1"
+  }
+}
